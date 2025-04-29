@@ -2,17 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sean&#39;s Portfolio</title>
-    <link>https://example.org/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Sean&#39;s Portfolio</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 28 Apr 2025 23:35:55 -0400</lastBuildDate>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 28 Apr 2025 23:49:12 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Résumé</title>
+      <link>http://localhost:1313/resume/</link>
+      <pubDate>Mon, 28 Apr 2025 23:49:12 -0400</pubDate>
+      <guid>http://localhost:1313/resume/</guid>
+      <description>&lt;p&gt;Below, you can see my résumé for applying to be a garbage man.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>About</title>
-      <link>https://example.org/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 28 Apr 2025 23:35:55 -0400</pubDate>
-      <guid>https://example.org/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;p&gt;This is my about page&lt;/p&gt;</description>
     </item>
   </channel>
